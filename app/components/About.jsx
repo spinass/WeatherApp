@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return (
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <p>Tai oro temperatūros pasirinktoje vietovėje atvaizdavimo progrma sukurta su React.</p>
       <p>
         Here are some of tools I used:
